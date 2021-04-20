@@ -97,7 +97,7 @@ else
     echo .
     echo .
     install_deps
-    echo This Script Was Made By Nitro > .update
+    echo This Script Was Made By nitro and mr robot > .update
     echo 'Requirements Installed....'
     pause
 fi
